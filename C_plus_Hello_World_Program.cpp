@@ -6,11 +6,7 @@
 using namespace std;
 
 int main(){
+    cout <<"C++ Hello World! Program";
 
-
-
-
-
-
-    return 0
+    return 0;
 }
